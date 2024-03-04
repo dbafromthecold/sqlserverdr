@@ -1,8 +1,4 @@
-# Disaster Recovery Strategies for SQL Server
-
-
-Resources for my Disaster Recovery Strategies for SQL Server session
-
+## Disaster Recovery Strategies for SQL Server
 
 This session covers: -
 - Difference between high availability and disaster recovery
@@ -14,10 +10,9 @@ This session covers: -
 - Enactment procedures (pushing the big red button)
 - Fail back
 
-
-# Github repo for this session
-https://github.com/dbafromthecold/sqlserverdr
+## Resources for my Disaster Recovery Strategies for SQL Server session
 
 
-# Slides
-https://dbafromthecold.github.io/sqlserverdr/
+
+
+
