@@ -24,6 +24,9 @@ https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/window
 Distributed Availability Groups: -<br>
 https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/distributed-availability-groups<br>
 <br>
+Business continuity and database recovery - SQL Server: -<br>
+https://learn.microsoft.com/en-us/sql/database-engine/sql-server-business-continuity-dr<br>
+<br>
 Netflix Chaos Monkey History: -<br>
 https://www.gremlin.com/chaos-monkey/the-origin-of-chaos-monkey<br>
 <br>
