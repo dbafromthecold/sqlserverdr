@@ -18,8 +18,14 @@ https://learn.microsoft.com/en-us/sql/database-engine/log-shipping/about-log-shi
 Mirroring: -<br>
 https://learn.microsoft.com/en-us/sql/database-engine/database-mirroring/database-mirroring-sql-server<br>
 <br>
+Alerts for Database Mirroring: -<br>
+https://learn.microsoft.com/en-us/sql/database-engine/database-mirroring/use-warning-thresholds-and-alerts-on-mirroring-performance-metrics-sql-server<br>
+<br>
 Availability Groups: -<br>
 https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/overview-of-always-on-availability-groups-sql-server<br>
+<br>
+Monitoring Availability Groups: -<br>
+https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/monitor-performance-for-always-on-availability-groups<br>
 <br>
 Distributed Availability Groups: -<br>
 https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/distributed-availability-groups<br>
