@@ -7,6 +7,7 @@ This session covers: -
 - Log Shipping
 - Mirroring
 - Availability Groups
+- Cloud Options
 - Enactment procedures (pushing the big red button)
 - Disaster Recovery Testing
 
@@ -32,6 +33,12 @@ https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/window
 <br>
 Business continuity and database recovery - SQL Server: -<br>
 https://learn.microsoft.com/en-us/sql/database-engine/sql-server-business-continuity-dr<br>
+<br>
+Business continuity and HADR for SQL Server on Azure Virtual Machines: -<br>
+https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/business-continuity-high-availability-disaster-recovery-hadr-overview?view=azuresql<br>
+<br>
+Overview of the Azure SQL Managed Instance link: -<br>
+https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/managed-instance-link-feature-overview?view=azuresql
 <br>
 Netflix Chaos Monkey History: -<br>
 https://www.gremlin.com/chaos-monkey/the-origin-of-chaos-monkey<br>
