@@ -38,7 +38,13 @@ Business continuity and HADR for SQL Server on Azure Virtual Machines: -<br>
 https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/business-continuity-high-availability-disaster-recovery-hadr-overview?view=azuresql<br>
 <br>
 Overview of the Azure SQL Managed Instance link: -<br>
-https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/managed-instance-link-feature-overview?view=azuresql
+https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/managed-instance-link-feature-overview?view=azuresql<br>
+<br>
+Designing a Site Recovery Strategy on Microsoft Azure: -<br>
+https://www.pluralsight.com/courses/azure-site-recovery-strategy-designing-update<br>
+<br>
+Azure SQL Database Business Continuity: -<br>
+https://www.youtube.com/watch?v=mDF1tf6JLng&list=PLr9ab4Dj3Obts1QdtnAy3GI3hhqE5tmvP&index=4<br>
 <br>
 Netflix Chaos Monkey History: -<br>
 https://www.gremlin.com/chaos-monkey/the-origin-of-chaos-monkey<br>
