@@ -40,6 +40,9 @@ https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/busin
 Overview of the Azure SQL Managed Instance link: -<br>
 https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/managed-instance-link-feature-overview?view=azuresql<br>
 <br>
+Planned failover (DR drill) between SQL Server 2022 and SQL Managed Instance with MI link feature: -<br>
+https://www.youtube.com/watch?v=Ql1Evh6VVIM
+<br>
 Designing a Site Recovery Strategy on Microsoft Azure: -<br>
 https://www.pluralsight.com/courses/azure-site-recovery-strategy-designing-update<br>
 <br>
